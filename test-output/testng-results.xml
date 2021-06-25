@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14792" started-at="2021-06-25T07:25:43Z" finished-at="2021-06-25T07:25:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14792" started-at="2021-06-25T07:25:43Z" finished-at="2021-06-25T07:25:57Z">
+      <class name="TestCases.RegistrationTc">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.RegistrationTc@6b26e945]" name="setUp" is-config="true" duration-ms="5450" started-at="2021-06-25T07:25:43Z" finished-at="2021-06-25T07:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLanguageDropDown()[pri:1, instance:TestCases.RegistrationTc@6b26e945]" name="validateLanguageDropDown" duration-ms="806" started-at="2021-06-25T07:25:48Z" finished-at="2021-06-25T07:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLanguageDropDown -->
+        <test-method status="PASS" signature="registration()[pri:2, instance:TestCases.RegistrationTc@6b26e945]" name="registration" duration-ms="8512" started-at="2021-06-25T07:25:49Z" finished-at="2021-06-25T07:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+      </class> <!-- TestCases.RegistrationTc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
